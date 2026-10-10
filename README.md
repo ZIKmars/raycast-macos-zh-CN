@@ -54,3 +54,9 @@
 - 不对第三方资源附加不明的统一开源许可；转载和派生使用需遵循各自原有许可。
 
 版本适配日期：2026-10-10。
+
+## 分享海报
+
+以下为 AI 制作的宣传插画，不是实际软件界面截图。
+
+<img src="docs/posters/cover.png" width="260" alt="发布封面" /> <img src="docs/posters/features.png" width="260" alt="功能介绍" /> <img src="docs/posters/install.png" width="260" alt="安装指南" />
