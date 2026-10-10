@@ -1,0 +1,19 @@
+{
+  "version": "2.7.3.0",
+  "files": 200,
+  "literalChangesMigrated": 10855,
+  "unmappedLiteralChanges": 0,
+  "syntaxAndModuleReferences": "200个文件通过",
+  "testInstall": "通过",
+  "testRestore": "本机回滚两次通过",
+  "restoredOfficialSignature": "本机回滚后完整官方签名检查通过",
+  "installedApp": "已安装，200个目标资源与最终补丁一致",
+  "runtimeChineseUI": [
+    "主搜索正常显示，无错误页",
+    "通用设置中文与布局正常",
+    "商店欢迎说明页中文正常"
+  ],
+  "scope": "沿用2.7.2.0包的主界面、设置、100个商店插件及Mole部分文案；并非全量汉化",
+  "runtimeLimitations": "商店需要接受服务条款，未代为接受；未逐一验证全部插件内部流程。原生菜单栏、部分动态内容和主搜索输入提示仍为英文。",
+  "migrationFixes": "修正转换函数标识符和结构插入处空格；最终主搜索已实际验证。"
+}
