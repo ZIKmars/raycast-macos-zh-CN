@@ -22,7 +22,7 @@
 ## 安装
 
 1. 确认已安装并正常打开过官方 **Raycast 2.7.3.0 arm64**，默认路径 `/Applications/Raycast.app`。
-2. 从 Releases 下载 `Raycast-2.7.3.0-arm64-汉化包.zip`，完整解压。
+2. 从 Releases 下载 `Raycast-2.7.3.0-arm64-zh-CN.zip`，完整解压。
 3. 从 Raycast 菜单 **Quit Raycast** 完全退出。
 4. 双击 **安装汉化.command**，回车使用默认路径，再确认安装。
 5. 安装结束后打开 Raycast。
